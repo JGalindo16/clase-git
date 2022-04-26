@@ -1,5 +1,5 @@
 # Introducción
-introducción consiste de bla bla bla. 
+introducción consiste en analizar el comportamiento de bla bla bla bla  
 me gustaría bla bla bla. 
 # Desarrollo
 
